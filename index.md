@@ -17,7 +17,7 @@ title: lueders.wiki
 
 ## K
 
-- [**KI**: Empfehlung KI-Campus](https://www.linkedin.com/posts/flueders_frontpage-ai-campus-activity-7322984364164677632-3caS?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA) (LinkedIn)
+- [Empfehlung **KI**-Campus](https://www.linkedin.com/posts/flueders_frontpage-ai-campus-activity-7322984364164677632-3caS?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA) (LinkedIn)
 
 ## L
 
