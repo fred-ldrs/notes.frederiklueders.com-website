@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin Einsteiger Guide"
-layout: wiki
+layout: default
 category: "B"
 description: "Ein umfassender Einsteigerguide für Bitcoin - Von den ersten Schritten bis zur sicheren Verwahrung"
 ---
