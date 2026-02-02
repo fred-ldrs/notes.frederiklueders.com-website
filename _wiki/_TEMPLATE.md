@@ -7,6 +7,8 @@ description: "Kurze Beschreibung des Eintrags"
 
 # {{ page.title }}
 
+*Last modified: {{ page.last_modified_at | date: "%d.%m.%Y" }}*
+
 Hier kannst du den Inhalt deines Wiki-Eintrags schreiben.
 
 ## Abschnitt 1
