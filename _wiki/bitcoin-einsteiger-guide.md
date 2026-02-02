@@ -3,6 +3,7 @@ title: "Bitcoin Einsteiger Guide"
 layout: default
 category: "B"
 description: "Ein umfassender Einsteigerguide für Bitcoin - Von den ersten Schritten bis zur sicheren Verwahrung"
+last_modified: 2025-02-01
 ---
 
 # {{ page.title }}
@@ -176,3 +177,5 @@ Bitcoin kann am Anfang überwältigend sein. Bei weiteren Fragen kannst du dich 
 ---
 
 **Disclaimer**: Dies stellt keine Finanzberatung dar. Investiere nur, was du bereit bist zu verlieren.
+
+*Last modified: {{ page.last_modified | date: "%d.%m.%Y" }}*
