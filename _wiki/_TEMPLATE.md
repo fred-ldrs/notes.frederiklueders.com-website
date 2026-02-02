@@ -1,6 +1,6 @@
 ---
 title: "Titel deines Wiki-Eintrags"
-layout: wiki
+layout: default
 category: "A"  # Buchstabe für die alphabetische Sortierung
 description: "Kurze Beschreibung des Eintrags"
 ---
