@@ -30,7 +30,14 @@ Das Pareto-Prinzip unterstützt dabei, die Aufgaben zu identifizieren, die den g
 Für Menschen mit einer Tendenz zur Detailverliebtheit – wie auch bei mir selbst – ist das Pareto-Prinzip ein hilfreicher Gegenpol. Es erinnert daran:
 
 - **„Die Dinge müssen laufen“** → Fokus auf die entscheidenden Aufgaben.
-- Nicht jede Aufgabe braucht die 100
+- Nicht jede Aufgabe braucht die 100%-Lösung.
+- Qualität und Effizienz müssen in einem sinnvollen Verhältnis stehen.
+
+Auch im privaten Kontext, insbesondere seit ich Vater bin, hilft mir das Prinzip, pragmatischer zu handeln und Prioritäten klarer zu setzen.
+
+## Grenzen des Prinzips
+
+Das Pareto-Prinzip ist kein universelles Gesetz. In sicherheitskritischen Bereichen – etwa in der Technik, Medizin oder im Qualitätsmanagement – sind die letzten 20% oft genauso wichtig wie die ersten 80%. Entscheidend ist daher, bewusst zu entscheiden, **wo** Pragmatismus sinnvoll ist und **wo** nicht.
 
 ## Quelle
 
