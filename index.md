@@ -30,6 +30,7 @@ title: lueders.wiki
 ## P
 
 - [Die **Pinguin-Geschichte**](https://www.linkedin.com/posts/flueders_die-pinguin-geschichte-von-dr-eckart-von-activity-7384237986491699201-7AxV?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA) (LinkedIn)
+- [Das **Paretoprinzip** (80-20-Regel): Mit 20% Aufwand 80% der Ergebnisse erzielen](/paretoprinzp/)
 - [**Proof of Work** Is a Mindset](https://www.linkedin.com/posts/flueders_proofofwork-workingparents-mindsetmatters-activity-7346432591098433536-kO0W?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA) (LinkedIn)
 
 ---
