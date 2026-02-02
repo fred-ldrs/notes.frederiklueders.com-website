@@ -3,6 +3,7 @@ title: "Titel deines Wiki-Eintrags"
 layout: default
 category: "A"  # Buchstabe für die alphabetische Sortierung
 description: "Kurze Beschreibung des Eintrags"
+last_modified: 2025-02-02
 ---
 
 # {{ page.title }}
@@ -42,3 +43,5 @@ def hello():
 Du kannst auf andere Wiki-Einträge verlinken:
 - [Anderer Eintrag]({% link _wiki/anderer-eintrag.md %})
 - Oder einfach: [Anderer Eintrag](/anderer-eintrag/)
+
+*Last modified: {{ page.last_modified | date: "%d.%m.%Y" }}*
