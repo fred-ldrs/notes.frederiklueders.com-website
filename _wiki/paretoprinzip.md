@@ -8,6 +8,8 @@ date: 2025-02-02
 
 # {{ page.title }}
 
+*Last modified: {{ page.last_modified_at | date: "%d.%m.%Y" }}*
+
 Das Pareto-Prinzip, auch bekannt als 80-20-Regel, beschreibt die Beobachtung, dass 80% der Ergebnisse häufig mit nur 20% des Gesamtaufwands erreicht werden. Die verbleibenden 20% erfordern dagegen unverhältnismäßig viel Energie. Das Prinzip ist ein hilfreiches Werkzeug, um Prioritäten zu setzen und pragmatischer zu arbeiten.
 
 ## Ursprung und Bedeutung
