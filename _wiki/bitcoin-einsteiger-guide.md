@@ -8,8 +8,6 @@ last_modified: 2026-02-01
 
 # {{ page.title }}
 
-*Last modified: {{ page.last_modified_at | date: "%d.%m.%Y" }}*
-
 Von den ersten Schritten bis zur sicheren Verwahrung - Alles was Anfänger über Bitcoin wissen müssen.
 
 ---
