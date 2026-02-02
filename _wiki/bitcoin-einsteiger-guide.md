@@ -3,7 +3,7 @@ title: "Bitcoin Einsteiger Guide"
 layout: default
 category: "B"
 description: "Ein umfassender Einsteigerguide für Bitcoin - Von den ersten Schritten bis zur sicheren Verwahrung"
-last_modified: 2025-02-01
+last_modified: 2026-02-01
 ---
 
 # {{ page.title }}
