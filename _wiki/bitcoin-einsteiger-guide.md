@@ -7,6 +7,8 @@ description: "Ein umfassender Einsteigerguide für Bitcoin - Von den ersten Schr
 
 # {{ page.title }}
 
+*Last modified: {{ page.last_modified_at | date: "%d.%m.%Y" }}*
+
 Von den ersten Schritten bis zur sicheren Verwahrung - Alles was Anfänger über Bitcoin wissen müssen.
 
 ---
