@@ -1,43 +1,36 @@
 ---
 title: "Pareto-Prinzip"
-layout: wiki
+layout: default
 category: "P"
-description: "Das 80-20-Prinzip: Wie man mit 20% Aufwand 80% der Ergebnisse erzielt"
+description: "Das Pareto-Prinzip (80-20-Regel): Mit 20% Aufwand 80% der Ergebnisse erzielen"
 ---
 
 # {{ page.title }}
 
-Das Pareto-Prinzip, auch bekannt als 80-20-Regel, besagt, dass 80% der Ergebnisse mit 20% des Gesamtaufwands erreicht werden. Die verbleibenden 20% der Ergebnisse benötigen hingegen 80% des Aufwands.
+Das Pareto-Prinzip, auch bekannt als 80-20-Regel, beschreibt die Beobachtung, dass 80% der Ergebnisse häufig mit nur 20% des Gesamtaufwands erreicht werden. Die verbleibenden 20% erfordern dagegen unverhältnismäßig viel Energie. Das Prinzip ist ein hilfreiches Werkzeug, um Prioritäten zu setzen und pragmatischer zu arbeiten.
 
 ## Ursprung und Bedeutung
 
-Das Prinzip wurde nach dem italienischen Ökonomen Vilfredo Pareto benannt, der beobachtete, dass 80% des italienischen Grundbesitzes sich in den Händen von 20% der Bevölkerung befanden. Diese Verteilung lässt sich auf viele Bereiche übertragen und ist zu einem wichtigen Konzept im Zeitmanagement und der Produktivität geworden.
+Benannt nach dem Ökonomen Vilfredo Pareto, der eine ungleiche Verteilung von Besitz in Italien feststellte, wurde das Prinzip später auf viele andere Bereiche übertragen. Heute ist es ein etabliertes Konzept im Zeitmanagement, in der Produktivität und in der Entscheidungsfindung.
 
 ## Anwendung im Arbeitsalltag
 
 ### Fokus auf das Wesentliche
 
-Das Pareto-Prinzip hilft dabei, Prioritäten zu setzen und sich auf die wirklich wichtigen Aufgaben zu konzentrieren. Nicht jede Aufgabe erfordert eine 100%-Lösung – oft reicht es aus, wenn "die Dinge laufen".
+Das Pareto-Prinzip unterstützt dabei, die Aufgaben zu identifizieren, die den größten Einfluss haben. Nicht jede Aufgabe benötigt eine perfekte 100%-Lösung – oft reicht es aus, wenn „die Dinge laufen“.
 
 ### Pragmatismus statt Perfektionismus
 
-- **Detailverliebtheit bewusst steuern**: Die eigenen Ansprüche so anpassen, dass das Arbeitsergebnis stimmt, ohne übertrieben perfektionistisch zu werden
-- **Praktische Beispiele**: Eine Dokumentation muss nicht zwingend super formatiert sein, solange sie ihren Zweck erfüllt
-- **Zeit effizient nutzen**: Die 20% der Aufgaben identifizieren, die den größten Mehrwert liefern
+- **Detailverliebtheit bewusst steuern:** Die eigenen Ansprüche so ausrichten, dass das Ergebnis solide ist, ohne unnötige Perfektion.
+- **Praktische Beispiele:** Eine Dokumentation muss nicht perfekt formatiert sein, solange sie verständlich und nutzbar ist.
+- **Effiziente Priorisierung:** Die 20% der Tätigkeiten erkennen, die den größten Mehrwert erzeugen.
 
-## Persönliche Entwicklung
+## Persönliche Perspektive
 
-Das Prinzip ist besonders hilfreich für Menschen, die zu Detailverliebtheit neigen. Es erinnert daran:
+Für Menschen mit einer Tendenz zur Detailverliebtheit – wie auch bei mir selbst – ist das Pareto-Prinzip ein hilfreicher Gegenpol. Es erinnert daran:
 
-- **"Die Dinge müssen laufen"** → Fokus auf die wichtigen Aufgaben
-- Nicht immer ist die 100%-Lösung nötig
-- Die Balance zwischen Qualitätsanspruch und Effizienz finden
-
-Im privaten wie im beruflichen Kontext kann das Pareto-Prinzip helfen, pragmatischer und gelassener zu werden – ohne dabei die Qualität der eigenen Arbeit zu vernachlässigen.
-
-## Grenzen des Prinzips
-
-Es ist wichtig zu verstehen, dass das Pareto-Prinzip nicht universal anwendbar ist. In manchen Bereichen – etwa in der Sicherheitstechnik oder Medizin – sind die letzten 20% genauso wichtig wie die ersten 80%.
+- **„Die Dinge müssen laufen“** → Fokus auf die entscheidenden Aufgaben.
+- Nicht jede Aufgabe braucht die 100
 
 ## Quelle
 
