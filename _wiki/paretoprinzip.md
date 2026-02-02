@@ -3,6 +3,7 @@ title: "Pareto-Prinzip"
 layout: default
 category: "P"
 description: "Das Pareto-Prinzip (80-20-Regel): Mit 20% Aufwand 80% der Ergebnisse erzielen"
+date: 2025-02-02
 ---
 
 # {{ page.title }}
