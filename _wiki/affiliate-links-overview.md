@@ -8,9 +8,9 @@ last_modified: 2025-02-03
 
 # {{ page.title }}
 
-Diese Übersicht dokumentiert die Affiliate-Programme und Affiliate-Links, die ich nutze.  
-Der Zweck ist rein organisatorisch: eine klare, interne Sammlung der Programme und Produkte, die ich gelegentlich einsetze.  
-Die Nutzung erfolgt ohne kommerziellen Fokus und dient primär der Projektunterstützung.  
+Diese Übersicht dokumentiert die Affiliate-Programme und Affiliate-Links, die ich nutze.
+Der Zweck ist rein organisatorisch: eine klare, interne Sammlung der Programme und Produkte, die ich gelegentlich einsetze.
+Die Nutzung erfolgt ohne kommerziellen Fokus und dient primär der Projektunterstützung.
 Das Wiki selbst verfolgt keine Marketingabsicht.
 
 ## Programme & Links
@@ -57,11 +57,9 @@ Das Wiki selbst verfolgt keine Marketingabsicht.
 - Affiliate Partner
 
 ## Einordnung
-- Affiliate-Links sind **nicht** Bestandteil von lueders.app oder lueders.wiki.  
-  Auf projektbezogenen Seiten wie bitcointrivia.org können sie jedoch vorkommen, wenn sie funktional zur Projektunterstützung beitragen.
-- Die Übersicht enthält Affiliate-Links, die bei Nutzung zu einer Provision führen können.  
-  Der Einsatz erfolgt ohne kommerziellen Fokus und ohne Marketingabsicht.
-- Die Übersicht dient primär der eigenen Orientierung.  
-  Interessierte können sie einsehen, wenn sie sich für die Programme oder deren Funktionsweise interessieren.
+
+- Affiliate-Links sind **nicht** Bestandteil von lueders.app oder lueders.wiki. Auf projektbezogenen Seiten wie bitcointrivia.org können sie jedoch vorkommen, wenn sie funktional zur Projektunterstützung beitragen.
+- Die Übersicht enthält Affiliate-Links, die bei Nutzung zu einer Provision führen können. Der Einsatz erfolgt ohne kommerziellen Fokus und ohne Marketingabsicht.
+- Die Übersicht dient primär der eigenen Orientierung. Interessierte können sie einsehen, wenn sie sich für die Programme oder deren Funktionsweise interessieren.
 
 *Last modified: {{ page.last_modified | date: "%d.%m.%Y" }}*
