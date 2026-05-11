@@ -1,6 +1,6 @@
 ---
 layout: default
-title: lueders.wiki
+title: notes.frederiklueders
 ---
 
 ## A
