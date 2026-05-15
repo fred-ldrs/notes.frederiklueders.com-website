@@ -38,4 +38,4 @@ title: notes.frederiklueders
 
 ## Rechtliches
 
-[Impressum & Datenschutz](impressum.html)
+<a href="https://legal.lueders.solutions/imprint/" target="_blank">Impressum</a> | <a href="privacy.html">Datenschutz</a> 
